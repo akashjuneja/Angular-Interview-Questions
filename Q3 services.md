@@ -1,0 +1,2 @@
+# Q3.Services in angular?
+let you define code or functionalities that are then accessible and reusable in many other components in your Angular project. Services help you with the abstraction of logic and data that is hosted independently but can be shared across other components.
