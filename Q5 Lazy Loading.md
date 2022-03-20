@@ -7,4 +7,4 @@ ViecontainerRef
 Componentfactoryresolver
 
 Now use import component in the function
-![image](./ll.png)
+![image](./assets/ll.png)
